@@ -1,0 +1,8 @@
+/* @theme masa */
+
+@import "default";
+
+section:not(.lead) {
+    font-size: 18px;
+    align-content: start;
+}
