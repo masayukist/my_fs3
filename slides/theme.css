@@ -2,6 +2,10 @@
 
 @import "default";
 
+section.diff h1  {
+    color: darkred;
+}
+
 section:not(.lead) {
     font-size: 18px;
     align-content: start;
